@@ -1,0 +1,40 @@
+.header {
+    width: 1280px;
+    height: 101px;
+    background-color: #A0F1BD;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.header_ul {
+    width: 208px;
+    height: 37px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-item {
+    width: 46px;
+    height: 13px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -0.045em;
+    color: #2E4F21;
+}
+.header_btn {
+    width: 142px;
+    height: 37px;
+    border-radius: 51.57px;
+    background-color: #2E4F21;
+    color: white;
+}
+.header-item-second {
+    width: 142px;
+    height: 37px;
+}
