@@ -1,0 +1,12 @@
+.hero {
+    width: 1280px;
+    height: 611.49px;
+    background-color: #fff;
+}
+.hero_container {
+        width: 1280px;
+    height: 611.49px;
+    padding: 0 40px;
+    background-color: #A0F1BD;
+    border-radius: 0 0 16px 16px;
+}
