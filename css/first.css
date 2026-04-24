@@ -12,4 +12,22 @@
     margin: 0 auto;
     width: 1280px;
     height: 6320.49px;
+    padding: 0;
+}
+@media (min-width: 376px) and (max-width: 800px) {
+    .container {
+    width: 800px;
+    height: 6239.43px;
+    margin: 0 auto;
+
+}
+}
+/* (max-width: 375px) */
+@media (max-width: 400px) {
+    .container {
+        width: 375px;
+        height: 7066.66px;
+    margin: 0 auto;
+
+    }
 }
